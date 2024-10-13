@@ -5,6 +5,7 @@
 읽기 좋은 코드, 동료가 사용하기 좋은 코드, 유지 보수와 확장에 용이한 코드를 작성하는 것이 코드를 작성할 때 가장 중요하게 여기는 원칙입니다.
 
 ### 최근 작성한 게시글
+- [Tidy First? - 코드 정리법](https://velog.io/@bo-like-chicken/tidy-first-코드-정리법)
 - [작고 소중한 Visual Studio Code 확장프로그램 만들기](https://velog.io/@bo-like-chicken/작고-소중한-Viusal-Studio-Code-확장프로그램-만들기)
 - [Query Keys를 관리하는 기준과 방법](https://velog.io/@bo-like-chicken/Query-Keys를-관리하는-기준과-방법)
 - [2023년 나를 성장시킨 글](https://velog.io/@bo-like-chicken/2023년-나를-성장시킨-글)
