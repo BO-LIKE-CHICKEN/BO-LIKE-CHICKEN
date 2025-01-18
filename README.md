@@ -4,9 +4,9 @@
 
 읽기 좋은 코드, 동료가 사용하기 좋은 코드, 유지 보수와 확장에 용이한 코드를 작성하는 것이 코드를 작성할 때 가장 중요하게 여기는 원칙입니다.
 
-### 최근 작성한 게시글
+### 작성했던 블로그 글
 - [Tidy First? - 코드 정리법](https://velog.io/@bo-like-chicken/tidy-first-코드-정리법)
-- [작고 소중한 Visual Studio Code 확장프로그램 만들기](https://velog.io/@bo-like-chicken/작고-소중한-Viusal-Studio-Code-확장프로그램-만들기)
+- [Tidy First? - 관리](https://velog.io/@bo-like-chicken/Tidy-First-관리)
+- [이상적인 아키텍처의 특징 - 클린 아키텍처를 통해 바라본](https://velog.io/@bo-like-chicken/이상적인-아키텍처의-특징-클린-아키텍처를-통해-바라본)
 - [Query Keys를 관리하는 기준과 방법](https://velog.io/@bo-like-chicken/Query-Keys를-관리하는-기준과-방법)
-- [2023년 나를 성장시킨 글](https://velog.io/@bo-like-chicken/2023년-나를-성장시킨-글)
 - [힘들어하는 주니어들을 위하여](https://velog.io/@bo-like-chicken/힘들어하는-주니어들을-위하여)
